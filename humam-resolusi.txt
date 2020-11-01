@@ -1,3 +1,5 @@
 Humam Resolusi
 - konsisten belajar code untuk front end
 - konsisten belajar database
+- belajar gitHub
+- membuat aplikasi Q
